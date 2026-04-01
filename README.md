@@ -1,6 +1,6 @@
 # Finger Tracking Project
 ## Motivation
-I built this project in PictoBlox to track finger movements and identify patient needs, aiming to help caregivers monitor patients more efficiently.
+Built this project in PictoBlox to track finger movements and identify patient needs, aiming to help caregivers monitor patients more efficiently.
 ## Features
 - Tracks finger movements to detect and identify patients' needs.
 - Provides real-time feedback to assist caregivers or medical staff.
